@@ -1,0 +1,1 @@
+Przyk³ady zastosowania metody strumieniowej teeing wprowadzonej w Java 12.
